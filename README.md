@@ -44,11 +44,11 @@ Optionally you can also copy them to the /root/.config directory by running:
 Enjoy!
 
 # Default Keybinds:
-SUPER + T - Terminal (kitty)
-SUPER + R ===> (Application Launcher (rofi -show drun)
-SUPER + SHIFT + R ===> (Application Launcher (rofi -show drun)
-SUPER + ESC ===> wlogout (Logout menu)
-SUPER + F ===> File Manager (thunar)
-SUPER + X ===> Close/Kill active Window
-SUPER + 1 to 10 ===> Switches to Workspace(s) 1 to 10, respectively.
-SUPER + SHIFT + 1 to 10 ===> Moves active window to Workspace(s) 1 to 10, respectively.
+- SUPER + T - Terminal (kitty)
+- SUPER + R ===> (Application Launcher (rofi -show drun)
+- SUPER + SHIFT + R ===> (Application Launcher (rofi -show drun)
+- SUPER + ESC ===> wlogout (Logout menu)
+- SUPER + F ===> File Manager (thunar)
+- SUPER + X ===> Close/Kill active Window
+- SUPER + 1 to 10 ===> Switches to Workspace(s) 1 to 10, respectively.
+- SUPER + SHIFT + 1 to 10 ===> Moves active window to Workspace(s) 1 to 10, respectively.
