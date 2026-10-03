@@ -1,0 +1,51 @@
+window {
+    font-family: "Quicksand", sans-serif;
+    font-size: 12pt;
+    color: #FBF1C7; 
+    background-color: rgba(29, 32, 33, .75);
+}
+
+button {
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 20px;
+    padding-top: 185px;
+    padding-bottom: 15px;
+    background-size: 40%;
+    border: none;
+    color: #d5b497;
+    text-shadow: none;
+    border-radius: 20px 20px 20px 20px;
+    background-color: #394144;
+    margin: 1px;
+    transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
+}
+
+button:hover {
+    background-color: #405359;
+}
+
+#lock {
+    background-image: image(url("icons/lock.svg"));
+}
+
+#logout {
+    background-image: image(url("icons/logout.svg"));
+}
+
+#suspend {
+    background-image: image(url("icons/suspend.svg"));
+   background-size: 35%;
+} 
+
+#shutdown {
+    background-image: image(url("icons/shutdown.svg"));
+}
+
+#reboot {
+    background-image: image(url("icons/reboot.svg"));
+}
+
+#hibernate {
+    background-image: image(url("icons/hibernate.svg"));
+}
