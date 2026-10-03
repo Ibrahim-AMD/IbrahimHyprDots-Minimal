@@ -1,6 +1,6 @@
 # IbrahimHyprDots-Minimal
 
-This repo contains my very minimal hyprland dotfiles, supporting the latest .lua syntax of hyprland. Doesn't require Nerd fonts and looks stunning despite its minimalism. Includes config files for hyprland, waybar, wlogout, rofi and kitty. Also includes a bunch of wallpapers, some of which are my own screenshots.
+This repo contains my very minimal hyprland dotfiles for linux, supporting the latest .lua syntax of hyprland. Doesn't require Nerd fonts and looks stunning despite its minimalism. Includes config files for hyprland, waybar, wlogout, rofi and kitty. Also includes a bunch of wallpapers, some of which are my own screenshots.
 
 https://github.com/user-attachments/assets/650e220f-e6a4-4770-a2a4-65100c05d3c8
 
