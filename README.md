@@ -4,7 +4,6 @@ This repo contains my Ultra-minimal hyprland dotfiles, supporting the latest .lu
 
 https://github.com/user-attachments/assets/650e220f-e6a4-4770-a2a4-65100c05d3c8
 
-https://github.com/user-attachments/assets/f8e4a25e-4bd0-4613-8f46-20a3729c2e56
 
 # Prerequisites:
 
