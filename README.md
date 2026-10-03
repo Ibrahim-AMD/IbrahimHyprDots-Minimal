@@ -4,28 +4,32 @@ This repo contains my Ultra-minimal hyprland dotfiles, supporting the latest .lu
 
 https://github.com/user-attachments/assets/650e220f-e6a4-4770-a2a4-65100c05d3c8
 
+https://github.com/user-attachments/assets/f8e4a25e-4bd0-4613-8f46-20a3729c2e56
+
 # Prerequisites:
 
 The following packages should be installed:
 1. hyprland
 2. hyprland-guiutils
-3. xdg-desktop-portal
-4. xdg-desktop-portal-hyprland
-5. rofi
-6. thunar
-7. kitty
-8. waybar
-9. swaybg
-10. wlogout
-11. swayidle
-12. NetworkManager (install the appropriate package for it on your distro)
-13. blueman
-14. pavucontrol
-15. htop
-16. libspa-0.2-bluetooth (on Debian) (if using pipewire)
-17. pipewire-pulse, wireplumber (ArchLinux) (if using pipewire)
-18. pulseaudio-module-bluetooth (Debian), pulseaudio-bluetooth (ArchLinux) (if using pulseaudio)
-19. network-manager-tui (Debian)
+3. nwg-look
+4. nwg-displays
+5. xdg-desktop-portal
+6. xdg-desktop-portal-hyprland
+7. rofi
+8. thunar
+9. kitty
+10. waybar
+11. swaybg
+12. wlogout
+13. swayidle
+14. NetworkManager (install the appropriate package for it on your distro)
+15. blueman
+16. pavucontrol
+17. htop
+18. libspa-0.2-bluetooth (on Debian) (if using pipewire)
+19. pipewire-pulse, wireplumber (ArchLinux) (if using pipewire)
+20. pulseaudio-module-bluetooth (Debian), pulseaudio-bluetooth (ArchLinux) (if using pulseaudio)
+21. network-manager-tui (Debian)
 
 
 # Setup Guide:
