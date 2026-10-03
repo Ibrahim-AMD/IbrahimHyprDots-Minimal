@@ -69,3 +69,6 @@ Enjoy!
 
 # Notes
 The wallpapers containing the alphabets "WH", "wh", and the wallpaper named ShroomLight.png were downloaded from wallhaven.cc, and I don't take any credit for them as they belong to their respective owners.
+
+# Credits and Attribution:
+The wlogout configuration in this repo is a modified variant of the wlogout theme: https://github.com/DreamMaoMao/wlogout-theme , which itself is a fork of https://github.com/MrVivekRajan/Gruvminimal-Dots
