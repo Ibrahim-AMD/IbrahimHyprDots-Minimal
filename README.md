@@ -37,7 +37,7 @@ Then, copy the contents of the cloned repo to ~/.config:
 
     cp -a ~/IbrahimHyprDots-Minimal/* ~/.config
 
-Optionally you can also copy them to the /root/.config directory by running:
+Also, copy them to the /root/.config directory by running:
 
     sudo cp -a ~/IbrahimHyprDots-Minimal/* /root/.config
 
@@ -52,3 +52,6 @@ Enjoy!
 - SUPER + X ===> Close/Kill active Window
 - SUPER + 1 to 10 ===> Switches to Workspace(s) 1 to 10, respectively.
 - SUPER + SHIFT + 1 to 10 ===> Moves active window to Workspace(s) 1 to 10, respectively.
+
+# Notes
+The wallpapers containing the alphabets "WH", "wh", and the wallpaper named ShroomLight.png were downloaded from wallhaven.cc, and I don't take any credit for them as they belong to their respective owners.
