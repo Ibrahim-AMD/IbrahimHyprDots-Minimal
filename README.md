@@ -35,11 +35,11 @@ First, clone the github repo:
 
 Then, copy the contents of the cloned repo to ~/.config:
 
-    cp -a ~/IbrahimHyprDots-Minimal/* ~/.config
+    cp -af ~/IbrahimHyprDots-Minimal/* ~/.config
 
 Also, copy them to the /root/.config directory by running:
 
-    sudo cp -a ~/IbrahimHyprDots-Minimal/* /root/.config
+    sudo cp -af ~/IbrahimHyprDots-Minimal/* /root/.config
 
 Enjoy!
 
