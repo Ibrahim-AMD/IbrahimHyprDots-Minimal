@@ -57,7 +57,7 @@ Enjoy!
 # Default Keybinds:
 - SUPER + T - Terminal (kitty)
 - SUPER + R ===> (Application Launcher (rofi -show drun)
-- SUPER + SHIFT + R ===> (Application Launcher (rofi -show drun)
+- SUPER + SHIFT + R ===> (Application Launcher (rofi -show run)
 - SUPER + ESC ===> wlogout (Logout menu)
 - SUPER + F ===> File Manager (thunar)
 - SUPER + X ===> Close/Kill active Window
