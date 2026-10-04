@@ -16,29 +16,30 @@ https://github.com/user-attachments/assets/650e220f-e6a4-4770-a2a4-65100c05d3c8
 The following packages should be installed:
 1. hyprland
 2. hyprland-guiutils
-3. git
-4. curl
-5. wget
-6. Quicksand font family
-7. nwg-look
-8. nwg-displays
-9. xdg-desktop-portal
-10. xdg-desktop-portal-hyprland
-11. rofi
-12. thunar
-13. kitty
-14. waybar
-15. swaybg
-16. wlogout
-17. swayidle
-18. NetworkManager (install the appropriate package for it on your distro)
-19. blueman
-20. pavucontrol
-21. htop
-22. libspa-0.2-bluetooth (on Debian) (if using pipewire)
-23. pipewire-pulse, wireplumber (ArchLinux) (if using pipewire)
-24. pulseaudio-module-bluetooth (Debian), pulseaudio-bluetooth (ArchLinux) (if using pulseaudio)
-25. network-manager-tui (Debian)
+3. hypridle
+4. git
+5. curl
+6. wget
+7. Quicksand font family
+8. nwg-look
+9. nwg-displays
+10. xdg-desktop-portal
+11. xdg-desktop-portal-hyprland
+12. rofi
+13. thunar
+14. kitty
+15. waybar
+16. swaybg
+17. wlogout
+18. swayidle
+19. NetworkManager (install the appropriate package for it on your distro)
+20. blueman
+21. pavucontrol
+22. htop
+23. libspa-0.2-bluetooth (on Debian) (if using pipewire)
+24. pipewire-pulse, wireplumber (ArchLinux) (if using pipewire)
+25. pulseaudio-module-bluetooth (Debian), pulseaudio-bluetooth (ArchLinux) (if using pulseaudio)
+26. network-manager-tui (Debian)
 
 
 # Setup Guide:
