@@ -2,6 +2,17 @@
 
 This repo contains my very minimal hyprland dotfiles for linux, supporting the latest .lua syntax of hyprland. Doesn't require Nerd fonts and looks stunning despite its minimalism. Includes config files for hyprland, waybar, wlogout, rofi and kitty. Also includes a bunch of wallpapers, some of which are my own screenshots.
 
+# Attention:
+
+Hyprland often has issues starting up properly when using LightDM and other X11-era display managers, in fact so much that sometimes Hyprland completely freezes and stops working. According to the Hyprland wiki, the display managers that work best are:
+- SDDM
+- GDM (Although it causes Hyprland to crash on the first run)
+- ly
+- greetd (works flawlessly with ReGreet)
+- plasma-login-manager (works flawlessly, but depends on systemd)
+
+# Preview
+
 https://github.com/user-attachments/assets/650e220f-e6a4-4770-a2a4-65100c05d3c8
 
 # Screenshots:
