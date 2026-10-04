@@ -74,10 +74,10 @@ hl.on("hyprland.start", function()
     )
     hl.exec_cmd(
         "waybar"
-    )
+		)
 	hl.exec_cmd(
-        "swayidle -w timeout 600 'hyprctl dispatch dpms off' resume 'hyprctl dispatch dpms on' timeout 1200 'hyprshutdown'"
-    )
+        "hypridle"
+		)
 
 
 end)
