@@ -10,6 +10,7 @@ Hyprland often has issues starting up properly when using LightDM and other X11-
 - ly
 - greetd (works flawlessly with ReGreet)
 - plasma-login-manager (works flawlessly, but depends on systemd)
+
 To install SDDM on Debian without pulling unnecessary depencies like KDE and Plasma Workspace, run
 
       sudo apt install sddm --no-install-recommends --no-install-suggests
