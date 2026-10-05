@@ -33,7 +33,7 @@ The following packages should be installed:
 6. git
 7. curl
 8. wget
-9. Quicksand font family
+9. Quicksand font family (if not available on your distro, replace the font in all configs with your desired font)
 10. nwg-look
 11. nwg-displays
 12. xdg-desktop-portal
